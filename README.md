@@ -1,5 +1,5 @@
 # Ableton Theme Hue Shifter
-This python programs allows you to shift the hue of every color in an Ableton theme file by an input number of degrees. This is different than Ableton's built in Color Intensity & Hue sliders that simply adds a color overlay to the UI. Included in the releases is the Default Ableton 12 theme shifted in 10 degree increments. This can be a quick and easy way to spice up existing theme's or give the default theme a fresh look, if you're less aesthetically inclined or want new colors without having to spend lots of time finding pleasing color combinations.
+This Python program allows you to shift the hue of every color in an Ableton theme file by an input number of degrees. This is different than Ableton's built in Color Intensity & Hue sliders that simply adds a color overlay to the UI. Included in the repository is a zip of the Default Ableton 12 theme shifted in 10 degree increments (Default_Theme_Hue_Shifted.zip). This can be a quick and easy way to spice up existing theme's or give the default theme a fresh look, if you're less aesthetically inclined or want new colors without having to spend lots of time finding pleasing color combinations.
 
 Default Theme:
 ![defaulttheme](https://github.com/user-attachments/assets/a2888e43-ab9f-4949-9d75-aaab3c57ecb9)
